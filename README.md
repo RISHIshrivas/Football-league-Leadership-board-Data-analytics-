@@ -35,6 +35,3 @@ pip install pandas numpy matplotlib seaborn statsmodels google-colab
 - Pair Plots: Utilizes pair plots for exploring relationships between different performance metrics.
 
 - Count Plot: Displays a count plot for the 'OnTarget' variable.
-
-# License
-This code is provided under the MIT License. Feel free to use, modify, and distribute it.
